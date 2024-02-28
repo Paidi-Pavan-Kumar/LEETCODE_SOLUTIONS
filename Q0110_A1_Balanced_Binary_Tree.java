@@ -1,4 +1,4 @@
-public class Q110_Balanced_Binary_Tree {
+public class Q0110_A1_Balanced_Binary_Tree {
 
     public class TreeNode {
         int val;
